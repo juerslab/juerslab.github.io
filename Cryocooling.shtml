@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>Cryocooling</title>
+
+  
+
+  
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+  
+  <style type="text/css">
+.style1 {
+  font-family: "Comic Sans MS";
+}
+.style2 {
+  font-family: "Times New Roman",Times,serif;
+}
+.style3 {
+  font-size: 12px;
+}
+#projnavbar {
+  width: 900px;
+}
+
+  </style></head><body>
+<h1 class="style1" align="center">Cryocooling<br>
+</h1>
+
+<!--#include virtual="projnavbar.html" -->
+
+<br>
+
+<p class="style2">Because macromolecular crystals are sensitive to X-rays, so they are
+usually cryogenically cooled to ~100K prior to X-ray exposure. This
+slows the X-ray damage processes.</p>
+
+
+<p class="style2">BUT, the cooling process itself can damage the
+crystal. We are trying to understand this cooling damage with the aim
+of improving cooling techniques. We are interested in the following
+related questions:</p>
+
+
+<ol class="style2">
+<li>What is the nature of cooling damage to crystals? </li><li>How do cryoprotectants work to limit cooling damage?</li><li>Can cooling damage be reversed in a predictable way based on the
+nature of the damage?</li><li>How much information about a particular macromolecular crystal is
+required to choose a good cryoprotectant?</li>
+</ol>
+
+
+<p class="style2">Our work and others' have suggested the following
+mechanism for cryoprotectant action. It appears that cryoprotectants
+work in part by adjusting the thermal contraction of the bulk solvent
+to match the contraction of the interstitial spaces. Our papers on this topic:</p>
+<ol>
+  <li><a href="papers/P2001a_Lattice-Repacking_JMB.pdf" target="_blank">Original JMB paper, looking at cooling induced modulation of crystal packing</a><br>
+  </li>
+  <li><a href="papers/P2004b_Cryocool_QRB.pdf" target="_blank">Review on cryocooling in Quartely Reviews of Biophysics</a></li>
+  <li><a href="papers/P2007_LTRT-Cycling_%20ActaD.pdf">Paper looking a the reversibility of cooling by cycling beta-galactosidase crystals between LT and RT.</a></li>
+  <li><a href="papers/P2010_Cryoprediction_ActaD.pdf" target="_blank">Measurements of solution thermal contractions, and discussion of cryoprotection optimization. </a><br>
+  </li>
+</ol>
+
+
+
+
+
+<blockquote>
+</blockquote>
+
+
+<p class="style2">These results led to additional experiments to
+investigate why cooling induced lattice damage can sometimes be
+recovered by warming the crystal to room temperature and then
+recooling. This appears to work, at least in part, via the transport of
+water into or out of the crystal, altering the thermal contraction
+properties of the bulk solvent to better match the contraction of the
+interstitial space. This paper is here:</p>
+<ul>
+  <li><a href="papers/P2004a_Cryocool-Water-Transp_ActaD.pdf" target="_blank">Solvent transport and annealing</a><br>
+  </li>
+</ul>
+
+
+
+<p>We are continuing this work by carrying out X-ray diffraction
+experiments on
+various protein crystals in concert with bulk measurements on the
+thermal contraction of solutions of water and various cryoprotective
+agents.</p>
+<br>
+
+
+</body></html>

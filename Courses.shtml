@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>Courses</title>
+
+  
+
+  
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+  
+  <style type="text/css">
+<!--
+.style1 {color: #000000}
+body {
+	background-color: #FFFFFF;
+}
+-->
+  </style></head><body>
+<!--#include virtual="mainnavbar.html" -->
+<h1><span style="font-weight: bold;">Courses</span></h1>
+Courses taught at Whitman (<a href="http://www.whitman.edu/academics/catalog/courses-of-instruction/physics">Physics</a> and <a href="http://www.whitman.edu/academics/catalog/courses-of-instruction/BBMB">BBMB</a>). Links point to my syllabi for these courses. Contact me for an up-to-date syllabus.<br>
+<br>
+
+<ul>
+
+  
+  <li><big><a href="course_info/Syllabus_P155_F09.pdf">Physics 155</a><a href="http://www.whitman.edu/academics/catalog/courses-of-instruction/physics#MIDDLE"> </a>(introductory course semester 1 - mainly mechanics and waves)<br>
+    </big></li>
+  <li><big><a href="course_info/Syllabus_P156_S2010.pdf">Physics 156</a> (introductory course semester 2 - mainly electricity, magnetism and light)<br>
+ </big></li>
+
+  
+  <li><big><a href="course_info/Syllabus_P245_F2012.pdf">Physics 245</a> (2nd-year course semester 1 - thermodynamics, quantum physics and special relativity) </big></li>
+  <li><big><a href="course_info/Syllabus_P255_F2012.pdf">Physics 255</a>/256 (the lab components of Phys 245/255)</big></li>
+<li><big><a href="course_info/Syllabus_P325_F09.pdf">Physics 325</a> (Electrodynamics I) </big></li>
+  <li><big><a href="course_info/Syllabus_P326.pdf">Physics 326</a> (Electrodynamics II)</big></li>
+  <li><big><a href="course_info/Syllabus_Phys347_Classical_Mechanics_2016.pdf">Physics 347</a> (Classical Mechanics)</big></li>
+
+  <li><big><a href="course_info/Syllabus_Thermal_Spring_2005.pdf">Physics 357</a> (Thermal Physics)</big></li>
+  <li><big><a href="course_info/Syllabus_BBMB324_S2013.pdf">BBMB 324</a> (Biophysics - required course for BBMB majors and elective for physics majors)</big></li>
+  <li><big><a href="course_info/Syllabus_BBMB334_S2013.pdf">BBMB 334</a> (Biophysics Lab)</big></li>
+  <li><big><a href="course_info/Syllabus_P326.pdf">Physics 490</a> (Physics Senior Seminar)</big></li>
+
+
+</ul>
+
+<ul>
+
+</ul>
+
+<p class="style1">&nbsp; </p>
+
+
+</body></html>

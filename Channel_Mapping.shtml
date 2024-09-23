@@ -1,0 +1,146 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>Channel Mapping</title>
+
+
+
+
+
+  
+
+  
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+  
+  <style type="text/css">
+.style1 {
+  font-family: "Comic Sans MS";
+}
+.style2 {
+  font-family: "Times New Roman",Times,serif;
+}
+.style3 {
+  font-size: 12px;
+}
+#projnavbar {
+  width: 900px;
+}
+
+  </style></head><body>
+<h1 class="style1" align="center">Channel Mapping<br>
+</h1>
+
+<!--#include virtual="projnavbar.html" -->
+<br>
+
+<br>
+
+<hr style="width: 100%; height: 2px;"><br>
+
+<div style="text-align: center;">
+<h4><big><big>Overview</big></big></h4>
+
+</div>
+
+<br>
+
+Macromolecular crystals are ordered arrays of macromolecules, but
+are also porous materials. Pore architecture is important for diffusion
+of ligands and other molecules into and out of crystals, as well for as
+the response of the crystals to changes in temperature (important for
+cryocooling).&nbsp; Although several pieces of software exist for
+describing
+surface, pockets and channels in single proteins, none are designed
+specifically for protein crystals<span style="font-style: italic;">.</span>
+Map_channels was thus written with two aims in mind: first, to provide
+straightforward visualization of pores and second, to characterize the
+pores with metrics relevant for diffusion inside the crystals. <br>
+
+<br>
+
+Map_channels carries out two primary functions:<br>
+
+<br>
+
+1. Generation of a distance map that can be displayed to gain an
+intuitive feel for the solvent channels. This is a straightforward
+calculation in which the unit cell is divided into a grid, and the
+shortest distance from each grid point to any protein atom in the
+crystal is calculated. The result is a 3D scalar field of distances to
+protein. This is written as a ccp4 format map than can be displayed,
+manipulated and contoured in Coot, Pymol and the like.&nbsp; An example
+is shown below:<br>
+
+<br>
+
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img style="width: 464px; height: 400px;" alt="Channel Comparison" src="images/Channel_packing.jpg"><br>
+2. Characterization of the distance map. The distance map is searched
+for connectivity to identify channels running continuously across the
+unit cell. Groups, or clusters, of connected gridpoints are analyzed
+with metrics such as pore radius, tortuosity, width variation and
+anisotropy.<br>
+<br>
+<br>
+<hr style="width: 100%; height: 2px;">
+<div style="text-align: center;">
+<h4><big><big>Reference</big></big></h4>
+</div>
+
+
+See: <a href="http://scripts.iucr.org/cgi-bin/paper?S160057671402281X">Juers &amp; Ruffin, J. Appl. Cryst. (2014). 47, 2105-2108</a><br>
+
+<hr style="width: 100%; height: 2px;"><br>
+
+<div style="text-align: center;">
+<h4><big><big>Download</big></big></h4>
+
+</div>
+
+<br>
+
+Map_channels (includes COOT plugin):<br>
+
+<ul>
+
+  <li>OSX <br>
+</li>
+  <ul><li><a href="map_channels_v0_5_osx.zip">Version 0.5</a> (10.6-10.9; Feb 2015)<br>
+    </li>
+
+  </ul>
+  <li>Linux<br>
+  </li>
+  <ul>
+    
+    <li><a href="map_channels_v0_5_linux.zip">Version 0.5 </a>(known to work on Ubuntu, CentOS, OpenSUSE...; Feb 2015)<br>
+    </li>
+
+  </ul>
+  <li>Windows</li>
+  <ul>
+    <li><a href="map_channels_v0_5_windows.zip">Version 0.5 </a>(known to work on Windows 7; Feb 2015)<br>
+    </li>
+  </ul>
+
+
+</ul><br>
+
+
+<br>
+
+<br>
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=9935709; 
+var sc_invisible=0; 
+var sc_security="55d717a9"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="free hit
+counters" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/9935709/0/55d717a9/0/" alt="free hit counters"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide --></body></html>

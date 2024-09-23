@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+  <title>Radiation Damage</title>
+
+  
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+  
+  <style type="text/css">
+.style1 {
+  font-family: "Comic Sans MS";
+}
+.style2 {
+  font-family: "Times New Roman",Times,serif;
+}
+.style3 {
+  font-size: 12px;
+}
+#projnavbar {
+  width: 900px;
+}
+
+  </style>
+  <script type="text/javascript" src="JSmol.min.js"></script>
+</head><body>
+<h1 class="style1" align="center">Radiation Damage<br>
+</h1>
+
+<!--#include virtual="projnavbar.html" -->
+<br>
+
+Macromolecular crystals suffer damage from ionizing radiation. This is
+especially problematic at the high intensity X-ray sources at 3rd
+generation synchrotrons. The problem of radiation damage in
+macromolecular crystallography has been studied quite extensively with
+focus on low temperature (100K and below). However, recently attention
+has moved to high temperatures. This interest has been spurred in part
+by the development of very fast detectors, which are opening the
+possibility of collecting X-ray data at synchrotrons at ~room
+temperature before radiation damage has had a chance to set in. <br>
+
+<br>
+
+We looked at the temperature dependence of radiation damage to crystals
+of thermolysin (at 100K vs 160K), and tried to understand the results
+in terms of the relationship between protein atoms and their proximity
+to solvent channels. The take home message can be summarized in the
+following figures from our paper: <a href="papers/P2011_TLNRD_JSR.pdf">Juers,
+D. H. &amp; Weik, M.
+Similarities and differences in radiation damage at 100 K versus 160 K
+in a crystal of thermolysin. (2011) <span style="font-style: italic;">J.
+Synchrotron Rad</span>. <span style="font-weight: bold;">18</span>,
+329-337.</a><br>
+
+<br>
+
+<br>
+
+<br>
+
+<div style="width: 900px; height: 175px;">
+<div style="width: 400px; height: 175px; float: left;"><img style="width: 400px; height: 175px;" alt="RD Hotspots 100K" src="images/Fig4a_100K_hotspots.png"></div>
+<div style="width: 400px; height: 175px; float: right;"><img><img style="width: 400px; height: 175px;" alt="RD Hotspots 160K" src="images/Fig4b_160K_hotspots.png"></div>
+<br>
+<br>
+</div>
+
+<br>
+
+Hotspots - the atoms most affected by radiation exposure (as measured
+by relative change in atom B-factor). Left - 100K and Right - 160 K. At
+the higher temperature the hotspots are more concentrated near the
+surface of the protein, while at 100 K the hotspots are distributed
+relatively uniformly throughout the molecule <br>
+
+<br>
+
+<br>
+
+<br>
+
+<div style="width: 900px; height: 384px;">
+<div style="width: 300px; height: 384px; float: left;"><img style="width: 282px; height: 384px;" alt="RD Susceptibility vs Residue Depth" src="images/Fig5b.jpg"></div>
+<div style="width: 600px; height: 384px; float: right;">Dependence of
+radiation susceptibility on residue depth (or distance to nearest
+solvent channel)
+as measured with <a href="Channel_Mapping.shtml">map_channels</a>. <br>
+<br>
+The top graph shows that at 100 K, there is not a strong correlation
+between the susceptibility and the residue depth. <br>
+<br>
+The bottom graph, at 160 K, shows a stronger correlation.<br>
+<br>
+This implies "protection" from the effects of radiation for residues
+further from solvent channels at 160 K but not at 100 K. <br>
+<br>
+</div>
+</div>
+
+<script type="text/javascript" src="JSmol.min.js"></script>
+</body></html>
