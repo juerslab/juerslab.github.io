@@ -10,10 +10,51 @@
 <!--#include virtual="mainnavbar.html" -->
 <h1>Publications</h1>
 
-<h2>Papers</h2>
-
+<h2>Papers</h2> 
 <ul>
-  <li>Juers,D.H., Matthews,B.W. & Huber, R.E. LacZ  beta-galactosidase: Structure and function of an enzyme of historical and molecular biological importance. (2012) <span style="font-style: italic;"> Protein Science </span><span style="font-weight: bold;">21</span>,
+  <li> Juers, D.H., Quire, J. and Stothers, S. Automated Gradient Equilibration of Macromolecular Crystals to New Solutions (2025)    <span style="font-style: italic;"> Under review  </span><span style="font-weight: bold;"></span>,
+<br>
+  </li>
+  
+  <li><a href="papers/P2019_Pepx_ActaF.pdf"> Ojennus, D.D., Bratt, N.J., Jones, K.L. and Juers, D.H. Structural characterization of a prolyl aminopeptidase (PepX) from Lactobacillus helveticus. (2019)    <span style="font-style: italic;"> Acta crystallographica F  </span><span style="font-weight: bold;">75</span>,
+625-633.<br>
+  </li>
+
+  <li><a href="papers/P2019_Stream_plunge_JApplCryst.pdf">Juers, D.H., Harrison, K.*, Wu, Z.*, Juers, D.H. A comparison of gas stream cooling and plunge cooling of macromolecular crystals. (2019)    <span style="font-style: italic;"> J Appl Cryst  </span><span style="font-weight: bold;">52</span>,
+1222-1232.<br>
+  </li>
+
+  <li><a href="papers/P2018_Thermal_Contraction_Impacts.pdf">Juers, D.H., Farley, C.A.*, Saxby, C.P.*, Cotter, R.A.*, Cahn, J.K.B.*, Holton-Burke, R.C.*, Harrison, K.*, Wu, Z.* The impact of cryosolution thermal contraction on protein conformation, crystal packing and crystal order. (2018)   <span style="font-style: italic;"> Acta crystallographica D  </span><span style="font-weight: bold;">74</span>,
+583-588.<br>
+  </li>
+  <li><a href="papers/P2016_IodinatedBoronClusters_SynthReact.pdf">Juhasz, M.A.,Matheson, G.R.*, Chang, P.S.*, Rosenbaum, A.*, Juers, D.H. Microwave-assisted iodination: synthesis of heavily iodinated 10-vertex and 12-vertex boron clusters (2016)   <span style="font-style: italic;"> Synthesis and Reactivity in Inorganic, Metal-Organic, and Nano-Metal Chemistry,  </span><span style="font-weight: bold;">46</span>,
+583-588.<br>
+  </li>
+  <li><a href="papers/P2015_PcpAmimcl-EJIC.pdf">Metal-halogen secondary bonding in a 2,5-dichlorohydroquinonate cobalt(II) complex: insight into substrate coordination in the chlorohydroquinone dioxygenase PcpA. (2015)   <span style="font-style: italic;"> European Journal of Inorganic Chemistry, ,  </span><span style="font-weight: bold;"></span>,
+4643-4647.<br>
+  </li>
+  <li> <a href="papers/P2015_BgalNaK_PCCP.pdf">Wheatley, RW, Juers D.H., Lev, B., Huber, R., Noskov, S. Elucidating Factors Important for Monovalent Cation Selectivity in Enzymes: E. coli beta-Galactosidase as a Model. (2015)   <span style="font-style: italic;"> Physical Chemistry Chemical Physics </span><span style="font-weight: bold;"></span>,
+10899-10909.<br>
+  </li>
+  <li><a href="papers/P2015_Cryobench_ActaD.pdf">Von Stetten, D., Giraud, T., Carpentier, P., Sever, F., Terrien, M., Dobias, F., Juers, D.H., Flot, D., Mueller-Dieckmann, C., Leonard, G.A., de Sanctis, D. & Royant, A. In crystallo optical spectroscopy (icOS) as a complementary tool on the macromolecular crystallography beamlines of the ESRF. (2015)  <span style="font-style: italic;"> Acta Crtystallographica D </span><span style="font-weight: bold;">71</span>,
+15-26.<br>
+  </li>
+  <li><a href="papers/P2014_Map_Channels_JAC.pdf">Juers, D.H. & Ruffin, J.* MAP_CHANNELS: A Computational Tool to Aid in the Visualization and Characterization of Solvent Channels in Macromolecular Crystals. (2014)  <span style="font-style: italic;"> Journal of Applied Crystallography </span><span style="font-weight: bold;">47</span>,
+2105-2108.<br>
+  </li>
+  <li><a href="papers/P2014_VaporDiffCryo_JSB.pdf">Farley, C.* & Juers, D.H. Efficient Cryoprotection of Macromolecular Crystals by Vapor Diffusion of Volatile Alcohols. (2014) <span style="font-style: italic;"> Journal of Structural Biology </span><span style="font-weight: bold;">188</span>,
+102-106.<br>
+  </li>
+  <li><a href="papers/P2014_HumidityControl_ActaD.pdf">Farley, C.*, Burks, G.*, Siegert, T.* & Juers, D.H. Improved reproducibility of cell parameters in macromolecular cryocrystallography by limiting dehydration during crystal mounting (2014)  <span style="font-style: italic;"> Acta crystallographica D </span><span style="font-weight: bold;">70</span>,
+2111-2124.<br>
+  </li>
+  <li><a href="papers/P2014_DiCyanoBoronCluster_ActaE.pdf">Juhasz, M.A., Juers, D.H., Dwulet, G.E.* & Rosenbaum, A.J.* Tetraethylammonium 7,12-dicyano-1-carba-closo-dodecaborate (2014)  <span style="font-style: italic;"> Acta crystallographica E </span><span style="font-weight: bold;">70</span>,
+o411-o412.<br>
+  </li>
+  <li><a href="papers/P2013_CyanoBoronCluster_InorgChem.pdf">Rosenbaum, A.J.*, Juers, D.H. & Juhasz, M.A. Copper-promoted Cyanation of a Boron Cluster: Synthesis, X-ray structure, and Reactivity of 12-CN-closo-CHB11H10.(2013)  <span style="font-style: italic;"> Inorganic Chemistry  </span><span style="font-weight: bold;">52</span>,
+10717-10719.<br>
+  </li>
+  <li><a href="papers/P2013_BgalReview_ProSci.pdf">Juers, D.H., Matthews,B.W. & Huber, R.E. LacZ  beta-galactosidase: Structure and function of an enzyme of historical and molecular biological importance. (2012) <span style="font-style: italic;"> Protein Science </span><span style="font-weight: bold;">21</span>,
 1792-1807.<br>
   </li>
 
@@ -103,7 +144,7 @@ Structural analysis of zinc substitutions in the active site of
 thermolysin. <em>Protein Science </em><strong>4 </strong>:
 1955-1965. </li>
 </ul>
-
+* Whitman College students
 <h2>&nbsp;&nbsp;&nbsp; Dissertation:</h2>
 
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="Dissertation.pdf">A
