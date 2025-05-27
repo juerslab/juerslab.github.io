@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+  <title>Index</title>
+
+  
+  
+  <style type="text/css">
+#slideshow {
+  width: 864px;
+  min-width: 400px;
+}
+  </style>
+</head><body style="background-image: url(file:///Users/juersdh/Documents/Website/images/background_tettlnchannels.png);">
+<!--#include virtual="mainnavbar.html" -->
+<div id="slideshow">
+<embed src="images/frames/Website_Show_Large.gif" autostart="true" loop="true" height="510" width="864"></div>
+
+</body></html>
