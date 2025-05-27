@@ -23,7 +23,7 @@ Protein Structure</small></h1>
 Projects. Our work can be thought of in two broad
 categories:</big></p>
 
-<span style="font-family: &quot;Comic Sans MS&quot;;">1. The physical chemistry
+<span style="font-family: &quot;Comic Sans MS&quot;;">1. The physics
 of macromolecular crystals.<br>
 </span>
 <span style="font-family: &quot;Comic Sans MS&quot;;">
@@ -31,7 +31,7 @@ of macromolecular crystals.<br>
 <ul class="style1">
 
   
-  <li>Dehydration effects during crystal mounting <br>
+  <li><a href="Dehydration.shtml">Dehydration effects during crystal mounting <br>
 <span style="font-family: &quot;Comic Sans MS&quot;;"></span><span class="style1"></span></li>
   <li><span class="style1"><a href="Nanoporous.shtml" class="style1">Physical behavior of macromolecular crystals related to their nanoporous architecture&nbsp;</a></span><span class="style1"></span> </li>
 
@@ -47,14 +47,17 @@ macromolecules of interest<br>
 
 <ul>
 
-  <li class="style1">PcpA - an enzyme with potential for applications in bioremediation - in collaboration with <a href="http://www.whitman.edu/chemistry/">Prof. Tim Machonkin</a></li>
-  <li class="style1">MntR - manganese transport regulator - in collaboration with Prof. Arthur
-Glasfeld, Reed College</li>
+  <li class="style1">Thermolysin - in particular why it's activated by high salt<br>
   <li class="style1">E. coli beta-galactosidase<br>
 </li>
   <li class="style1">Other projects: We've also worked on the following
-molecules, all of which have resisted crystallization:</li>
+molecules:</li>
   <ul>
+  <li class="style1">MntR - manganese transport regulator - in collaboration with Prof. Arthur
+Glasfeld, Reed College</li>
+
+    <li class="style1">PcpA - an enzyme with potential for applications in bioremediation - in collaboration with <a href="http://www.whitman.edu/chemistry/">Prof. Tim Machonkin</a></li>
+
     <li class="style1"><a href="MBP.html">Myelin Basic Protein</a> - an
 autoantigen involved in multiple sclerosis and an intrinsically
 unstructured protein </li>
